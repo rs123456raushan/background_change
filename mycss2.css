@@ -1,0 +1,9 @@
+body{
+	font: "Railway",sans-serif;
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5px;
+	background: linear-gradient(to right, rgb(60, 195, 60), rgb(255, 0, 0));
+}
+
